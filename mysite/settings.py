@@ -25,7 +25,7 @@ SECRET_KEY = 'zk!+53gyxy&w2t-xpygo!5^%)uyf(tm(l_y&s6wvj(a^si^=$n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['selak.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 #ALLOWED_HOSTS = []
 
 # Application definition
